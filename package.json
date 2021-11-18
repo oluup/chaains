@@ -1,0 +1,9 @@
+{
+  "name": "chaains",
+  "version": "0.0.1",
+  "description": "The npm package to get the chains.",
+  "main": "index.js",
+  "repository": "https://github.com/oluup/chains.git",
+  "author": "Yasar ICLI <yasaricli@gmail.com>",
+  "license": "MIT"
+}
