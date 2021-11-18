@@ -1,6 +1,6 @@
 const CHAINS = require("./chains.json");
 
-exports = {
+module.exports = {
   getChain(id) {
     return CHAINS[id];
   },
